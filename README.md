@@ -19,3 +19,15 @@ The contents of the directories under the repo are summarized below.
 
 
   
+## Citation
+
+  
+    @article{
+      title={Catch Me If You Can: Deceiving Stance Detection and Geotagging Models to Protect Privacy of Individuals on Twitter’ Social Behaviors},
+      author={Dilara Dogan, Bahadir Altun, Muhammed Said Zengin, Mucahid Kutlu, Tamer Elsayed},
+      booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
+      year={2023}
+    }
+
+
+  
