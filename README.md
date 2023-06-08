@@ -1,4 +1,3 @@
-
 # Catch Me If You Can: Deceiving Stance Detection and Geotagging Models to Protect Privacy of Individuals on Twitter
 
 In this work, we investigate what individuals can do to avoid being detected by NLP models while using social media platforms. We ground our investigation in two exposure-risky tasks, stance detection and geotagging. We explore a variety of simple techniques for modifying text, such as inserting typos in salient words, paraphrasing, and adding dummy social media posts.
@@ -17,8 +16,17 @@ The contents of the directories under the repo are summarized below.
 
 - "st_qualitative_experimental_results.py" is the system code that provides the results of the test data we have created with various manual and automatic methods.
 
+## Contents related go the geotagging system
+
+- For the geotagging task, we have used the implementation of GCN and MLP-TXT+NET10 shared by Rahimi, Cohn, and Baldwin (2018)
 
   
+https://github.com/afshinrahimi/geographconv
+
+- The data we use for the geotagging task, including train, dev and test, are given under the "geolocation_data" directory.
+
+- The methods used in automatic text change in the Stance detection task are also used in the geotagging task.
+
 ## Citation
 
   
@@ -28,6 +36,3 @@ The contents of the directories under the repo are summarized below.
       booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
       year={2023}
     }
-
-
-  
