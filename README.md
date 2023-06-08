@@ -16,7 +16,7 @@ The contents of the directories under the repo are summarized below.
 
 - "st_qualitative_experimental_results.py" is the system code that provides the results of the test data we have created with various manual and automatic methods.
 
-## Contents related go the geotagging system
+## Contents related to the geotagging system
 
 - For the geotagging task, we have used the implementation of GCN and MLP-TXT+NET10 shared by Rahimi, Cohn, and Baldwin (2018)
 
