@@ -34,10 +34,10 @@ https://github.com/afshinrahimi/geographconv
 		title={Catch Me If You Can: Deceiving Stance Detection and Geotagging Models to Protect Privacy of Individuals on Twitter}, 
 		author={Dogan, Dilara and Altun, Bahadir and Zengin, Muhammed Said and Kutlu, Mucahid and Elsayed, Tamer}, 
 		journal={Proceedings of the International AAAI Conference on Web and Social Media}, 
-		volume={17},
-		number={1},	
-		pages={173-184}		
 		DOI={10.1609/icwsm.v17i1.22136}, 
 		year={2023}, 
-		month={Jun.}, 
+		month={Jun.},
+		volume={17},
+		number={1},	
+		pages={173-184}
 	}
